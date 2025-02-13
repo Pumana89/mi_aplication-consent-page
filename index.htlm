@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8"> <!-- Codificación de caracteres -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Diseño responsivo -->
-    <title>Página de Consentimiento - Mi Aplicación</title> <!-- Título de la página -->
+    <title>MiAgenteIA</title> <!-- Título de la página -->
     <style>
         /* Estilos básicos para mejorar la apariencia */
         body {
