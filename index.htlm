@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"> <!-- Codificación de caracteres -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Diseño responsivo -->
+    <title>Página de Consentimiento - Mi Aplicación</title> <!-- Título de la página -->
+    <style>
+        /* Estilos básicos para mejorar la apariencia */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333; /* Color del título */
+        }
+        a {
+            color: #007BFF; /* Color de los enlaces */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline; /* Subrayado al pasar el mouse */
+        }
+    </style>
+</head>
+
+ <body>
+    <!-- Mi Agente IA PUMA -->
+    <h1>Mi Aplicación</h1>
+
+    <!-- Descripción general -->
+    <p>Bienvenido a <strong>Mi Aplicación</strong>. Esta aplicación utiliza Google OAuth para acceder a ciertos datos de tu cuenta de Google.</p>
+    
+    <!-- Información sobre los datos solicitados -->
+    <h2>¿Qué información se solicita?</h2>
+    <ul>
+        <li>Tu dirección de correo electrónico.</li>
+        <li>Información básica de perfil (nombre, foto).</li>
+    </ul>
+
+    <!-- Política de privacidad -->
+    <h2>Política de Privacidad</h2>
+    <p>Puedes consultar nuestra <a href="politica-de-privacidad.html">Política de Privacidad</a> para obtener más detalles sobre cómo manejamos tus datos.</p>
+
+    <!-- Información de contacto -->
+    <h2>Contacto</h2>
+    <p>Si tienes preguntas o inquietudes, contáctanos en <a href="mailto:soporte@miaplicacion.com">soporte@miaplicacion.com</a>.</p>
+</body>
+</html>
