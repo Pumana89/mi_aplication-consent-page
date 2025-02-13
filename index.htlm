@@ -25,14 +25,17 @@
 <body>
     <h1>Mi Aplicación</h1>
     <p>Bienvenido a <strong>Mi Aplicación</strong>. Esta aplicación utiliza Google OAuth para acceder a ciertos datos de tu cuenta de Google.</p>
+    
     <h2>Información que se solicita</h2>
     <ul>
         <li>Tu dirección de correo electrónico.</li>
         <li>Información básica de perfil (nombre, foto).</li>
     </ul>
+    
     <h2>Política de Privacidad</h2>
     <p>Puedes consultar nuestra <a href="politica-de-privacidad.html">Política de Privacidad</a> para obtener más detalles sobre cómo manejamos tus datos.</p>
+    
     <h2>Contacto</h2>
-    <p>Si tienes preguntas o inquietudes, contáctanos en <a href="mailto:ssporte@miaplicacion.com">ssporte@miaplicacion.com</a></p>
+    <p>Si tienes preguntas o inquietudes, contáctanos en <a href="mailto:ssport@example.com">paumanaq@gmail.com</a>.</p>
 </body>
 </html>
