@@ -1,50 +1,38 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8"> <!-- Codificación de caracteres -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Diseño responsivo -->
-    <title>MiAgenteIA</title> <!-- Título de la página -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MiAgenteIA</title>
     <style>
-        /* Estilos básicos para mejorar la apariencia */
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
             line-height: 1.6;
         }
         h1 {
-            color: #333; /* Color del título */
+            color: #333;
         }
         a {
-            color: #007BFF; /* Color de los enlaces */
+            color: #007BFF;
             text-decoration: none;
         }
         a:hover {
-            text-decoration: underline; /* Subrayado al pasar el mouse */
+            text-decoration: underline;
         }
     </style>
 </head>
-
-
- <body>
-    <!-- MiAgenteIA -->
+<body>
     <h1>Mi Aplicación</h1>
-
-    <!-- Descripción general -->
     <p>Bienvenido a <strong>Mi Aplicación</strong>. Esta aplicación utiliza Google OAuth para acceder a ciertos datos de tu cuenta de Google.</p>
-    
-    <!-- Información sobre los datos solicitados -->
-    <h2>¿Qué información se solicita?</h2>
+    <h2>Información que se solicita</h2>
     <ul>
         <li>Tu dirección de correo electrónico.</li>
         <li>Información básica de perfil (nombre, foto).</li>
     </ul>
-
-    <!-- Política de privacidad -->
     <h2>Política de Privacidad</h2>
     <p>Puedes consultar nuestra <a href="politica-de-privacidad.html">Política de Privacidad</a> para obtener más detalles sobre cómo manejamos tus datos.</p>
-
-    <!-- Información de contacto -->
-    <h2>puma.co@proton.me</h2>
-    <p>Si tienes preguntas o inquietudes, contáctanos en <a href="mailto:soporte@miaplicacion.com">soporte@miaplicacion.com</a>.</p>
+    <h2>Contacto</h2>
+    <p>Si tienes preguntas o inquietudes, contáctanos en <a href="mailto:ssporte@miaplicacion.com">ssporte@miaplicacion.com</a></p>
 </body>
 </html>
